@@ -26,7 +26,7 @@ def num_translate(inp):
 	else:
 		print('omg')
 
-#print(num_translate(input('введите число от 1 до 10 на английском: ')))
+print(num_translate(input('введите число от 1 до 10 на английском: ')))
 
 '''
 3. Написать функцию thesaurus(), принимающую в качестве аргументов
